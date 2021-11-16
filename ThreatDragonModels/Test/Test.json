@@ -3,7 +3,11 @@
     "title": "Test"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "Reni"
+      }
+    ],
     "diagrams": [
       {
         "title": "1",
